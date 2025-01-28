@@ -1,0 +1,2 @@
+# ibmskillsbuilderdelete
+For deletion
